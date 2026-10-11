@@ -1,0 +1,13 @@
+* {
+    font-family: Impact;
+}
+body{
+    background-color: rgb(221, 168, 36);
+}
+.all{
+    text-align: center;
+    margin: auto;
+}
+.text{
+    color: rgb(26, 10, 42);
+}
